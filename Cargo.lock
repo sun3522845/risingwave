@@ -4542,6 +4542,7 @@ dependencies = [
  "madsim",
  "madsim-tokio",
  "prost",
+ "risingwave_common",
  "risingwave_pb",
  "workspace-hack",
 ]
